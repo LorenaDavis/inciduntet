@@ -1,0 +1,31 @@
+{
+  "name": "inciduntet",
+  "version": "1.0.0",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "author": "LonnyDonnelly",
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.16.0",
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.12.0",
+    "typescript": "^4.0.3"
+  },
+  "keywords": [
+    "qui",
+    "ut",
+    "quia",
+    "veritatis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorenaDavis/inciduntet.git"
+  },
+  "homepage": "https://github.com/LorenaDavis/inciduntet.git",
+  "bugs": {
+    "url": "https://github.com/LorenaDavis/inciduntet.git/issues"
+  }
+}
